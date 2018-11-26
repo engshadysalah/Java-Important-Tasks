@@ -1,0 +1,1 @@
+adding db secripts in package com.optimal.dbmodel.dbscripts
